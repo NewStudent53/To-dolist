@@ -56,15 +56,6 @@ header .input-section {
     background-color: aliceblue;
 }
 
-.todos-filter{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-    height: 100%;
-    margin-bottom: 10px;
-}
-
 .todos-list {
     display: flex;
     flex-direction: column;
